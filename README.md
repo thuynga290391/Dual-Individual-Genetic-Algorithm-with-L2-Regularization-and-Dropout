@@ -12,10 +12,10 @@
 
 **Affiliations:**
 
-**¹** Department of Smart Wearables Engineering
-**\*** Department of Materials Science and Engineering
-**Institution:** Soongsil University, Seoul 156-743, Korea
-**Correspondence:** jykim@ssu.ac.kr | Tel: +82-10-8720-0631
+* **¹** Department of Smart Wearables Engineering
+* **\*** Department of Materials Science and Engineering
+* **Institution:** Soongsil University, Seoul 156-743, Korea
+* **Correspondence:** jykim@ssu.ac.kr | Tel: +82-10-8720-0631
 
 </div>
 
